@@ -1,0 +1,5 @@
+<!--pages/index/MindiumPage/MusicPage.wxml-->
+
+<navigator target="减压大师" open-type="navigate" app-id="wxb14c735623504e37" path="" version="release" class='nav'>
+</navigator>
+

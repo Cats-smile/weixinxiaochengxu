@@ -1,0 +1,7 @@
+/* pages/list/list.wxss */
+.bindtap {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}

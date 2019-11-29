@@ -1,0 +1,14 @@
+/* pages/index/MindiumPage/MusicPage.wxss */
+.nav {
+
+  color: #fff;
+
+  height: 120rpx;
+
+  line-height: 120rpx;
+
+  background: green;
+
+  text-align: center;
+
+}

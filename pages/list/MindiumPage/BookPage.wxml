@@ -1,0 +1,4 @@
+<!--pages/index/MindiumPage/BookPage.wxml-->
+
+<web-view src="{{'http://www.tianlifilter.com/'}}"></web-view>
+<button class="welcom-button" bindtap="toHome">开启</button>

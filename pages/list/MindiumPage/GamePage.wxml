@@ -1,0 +1,4 @@
+<!--pages/index/MindiumPage/GamePage.wxml-->
+
+
+<web-view src="{{'http://www.4399.com/flash_fl/12_1.htm'}}"></web-view>

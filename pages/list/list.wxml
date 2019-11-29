@@ -1,0 +1,6 @@
+<!--pages/list/list.wxml-->
+<view>
+  <button bindtap="goto1">减压小游戏</button>
+  <button bindtap="goto2">减压音乐</button>
+  <button bindtap="goto3">减压阅读</button>
+</view>
