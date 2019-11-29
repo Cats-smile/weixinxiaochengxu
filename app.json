@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/list/list",
+    "pages/logs/logs",
+    "pages/list/MindiumPage/GamePage",
+    "pages/list/MindiumPage/MusicPage",
+    "pages/list/MindiumPage/BookPage",
+    "pages/user/user",
+    "pages/list/out"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "backgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#23238E",
+    "navigationBarTitleText": "减压大师",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#a9b7b7",
+    "selectedColor": "#11cd6e",
+    "borderStyle": "white",
+    "list": [
+      {
+        "selectedIconPath": "images/menuicon/index1.png",
+        "iconPath": "images/menuicon/index.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "selectedIconPath": "images/menuicon/list1.png",
+        "iconPath": "images/menuicon/list.png",
+        "pagePath": "pages/list/list",
+        "text": "列表"
+      },
+      {
+        "selectedIconPath": "images/menuicon/user1.png",
+        "iconPath": "images/menuicon/user.png",
+        "pagePath": "pages/user/user",
+        "text": "个人中心"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json",
+  "navigateToMiniProgramAppIdList": [
+    "wxb14c735623504e37"
+  ]
+}
